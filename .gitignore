@@ -1,0 +1,9 @@
+.venv/
+.idea/
+Martian.egg-info/
+.env
+.mypy_cache/
+.coverage
+pdm.lock
+.pdm-python
+*.pyc
